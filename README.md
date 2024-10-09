@@ -1,5 +1,8 @@
 # **FaviconManager**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-464646?style=for-the-badge&logo=debian&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 **FaviconManager** is a streamlined drag-and-drop utility for efficient favicon management. It empowers web developers and designers to effortlessly generate multiple favicon sizes from a single source image, simplifying the creation process across devices and browsers.
 
