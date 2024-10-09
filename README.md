@@ -1,8 +1,5 @@
-Here's a modern and polished GitHub description for **FaviconManager** with a corporate feel, formatted with Markdown for GitHub:
-
----
-
 # **FaviconManager**
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 **FaviconManager** is a streamlined drag-and-drop utility for efficient favicon management. It empowers web developers and designers to effortlessly generate multiple favicon sizes from a single source image, simplifying the creation process across devices and browsers.
 
@@ -49,5 +46,4 @@ Here's a modern and polished GitHub description for **FaviconManager** with a co
 
 ---
 
-**FaviconManager** reduces the complexity of favicon management, delivering high-quality results with ease and efficiency.
 
