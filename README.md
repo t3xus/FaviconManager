@@ -19,7 +19,7 @@ FaviconManager is a cross-platform Java-based application designed to simplify t
     <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">TECHNICAL HIGHLIGHTS</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ccc; padding: 10px; text-align: left;">
+    <td style="border: 1px solid #ccc; padding: 10px; vertical-align: top; text-align: left;">
       
 ![Drag-and-Drop](https://img.shields.io/badge/Feature-Drag--and--Drop-1F4D37)           
 ![Automated Favicons](https://img.shields.io/badge/Feature-Favicon%20Generation-1F4D37)                  
