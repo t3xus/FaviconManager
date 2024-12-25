@@ -9,9 +9,9 @@
   <tr style="background-color: #f7f7f7; font-weight: bold;">
     <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">
 
-![Drag-and-Drop](https://img.shields.io/badge/------Features-1F4D37)            ​</td>
-    <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">​ ![Drag-and-Drop](https://img.shields.io/badge/------WorkFlow-1F4D37)            ​</td>
-    <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;"> ![Drag-and-Drop](https://img.shields.io/badge/------HighLights-1F4D37) </td>
+![Drag-and-Drop](https://img.shields.io/badge/------Features-blue)            ​</td>
+    <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">​ ![Drag-and-Drop](https://img.shields.io/badge/------WorkFlow-blue)            ​</td>
+    <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;"> ![Drag-and-Drop](https://img.shields.io/badge/------HighLights-blue) </td>
   </tr>
   <tr>
     <td style="border: 1px solid #ccc; padding: 10px; vertical-align: top; text-align: left;">
