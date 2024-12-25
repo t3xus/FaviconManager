@@ -29,15 +29,9 @@
 ![Professional Design](https://img.shields.io/badge/Benefit-Professional%20Design-1F4D37) 
 
 
-## **Platform Compatibility**
 
-| OS            | Badge                                                                                     |
-|---------------|-------------------------------------------------------------------------------------------|
-| **Windows**   | ![Windows](https://img.shields.io/badge/Platform-Windows%2011-blue)                       |
-| **macOS**     | ![macOS](https://img.shields.io/badge/Platform-macOS-cccccc)                              |
-| **Linux**     | ![Linux](https://img.shields.io/badge/Platform-Linux-ff4500)                              |
+![Windows](https://img.shields.io/badge/Platform-Windows%2011-blue)                ![macOS](https://img.shields.io/badge/Platform-macOS-cccccc)                              ![Linux](https://img.shields.io/badge/Platform-Linux-ff4500)                              
 
----
 
 
 ![Workflow](https://img.shields.io/badge/Benefit-Streamlined%20Workflow-1F4D37)         
