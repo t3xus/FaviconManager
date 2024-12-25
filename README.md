@@ -57,6 +57,5 @@
 
 
 
-[MIT License](LICENSE).
 
 
