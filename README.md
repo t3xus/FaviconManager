@@ -1,7 +1,7 @@
 <center>
 <div align="center"> 
   
-  ![Static Badge](https://img.shields.io/badge/:badgeContent)
+  ![Static Badge](https://img.shields.io/badge/:ok-no)
 
 
   ![](https://img.shields.io/badge/FaviconManager-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
