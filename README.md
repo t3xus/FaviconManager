@@ -23,7 +23,7 @@
 <table style="border-collapse: collapse; border: 1px solid #ccc; font-family: Arial, sans-serif; width: 90%; text-align: center;">
   <tr style="background-color: #f7f7f7; font-weight: bold;">
     <td style="border: 1px solid #ccc; padding: 10px; width: 50%;">FEATURES & BENEFITS</td>
-    <td style="border: 1px solid #ccc; padding: 10px; width: 50%;">FAVICONMANAGER WORKFLOW</td>
+    <td style="border: 1px solid #ccc; padding: 10px; width: 50%;">WORKFLOW</td>
   </tr>
   <tr>
     <td style="border: 1px solid #ccc; padding: 10px; text-align: left;">
