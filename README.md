@@ -22,7 +22,6 @@
 ![Reports](https://img.shields.io/badge/Feature-Reports-1F4D37)
 ![Custom Sizes](https://img.shields.io/badge/Feature-Custom%20Sizes-1F4D37)
 ![ZIP Export](https://img.shields.io/badge/Feature-ZIP%20Export-1F4D37)
-
 ---
 
 ## **Platform Compatibility**
