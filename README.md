@@ -1,6 +1,9 @@
 <center>
 <div align="center">
-<img src="[https://github.com/t3xus/FaviconManager/blob/main/Favicon%20manager.png](https://img.shields.io/badge/FaviconManager-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)" width="980px" alt="**FaviconManager** is a versatile, cross-platform Java application designed to streamline the creation, management, and export of graphical assets such as favicons and image resources for web development. Featuring a sleek interface and robust processing capabilities, FaviconManager enables web designers, developers, and brand managers to achieve consistency and efficiency in their workflows with ease.">                                                                 
+
+  ![](https://img.shields.io/badge/FaviconManager-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+  
+**FaviconManager** is a versatile, cross-platform Java application designed to streamline the creation, management, and export of graphical assets such as favicons and image resources for web development. Featuring a sleek interface and robust processing capabilities, FaviconManager enables web designers, developers, and brand managers to achieve consistency and efficiency in their workflows with ease.">                                                                 
   
   ![Author](https://img.shields.io/badge/Author-Jgooch-1F4D37) ![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Language](https://img.shields.io/badge/Language-JAVA-1F4D37)  ![Java Version](https://img.shields.io/badge/Java-%3E=8-1F4D37) ![Status](https://img.shields.io/badge/Status-Stable-darkgreen)
  ![macOS](https://img.shields.io/badge/Platform-macOS,Windows,Linux-1F4D37)    
