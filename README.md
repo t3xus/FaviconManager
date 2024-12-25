@@ -58,18 +58,16 @@
 ![Input](https://img.shields.io/badge/+-Folders-1F4D37)            
 ![Input](https://img.shields.io/badge/+-Archives(.zip)-1F4D37)          
 
-![Processing](https://img.shields.io/badge/Step-Processing-Blue)
+![Processing](https://img.shields.io/badge/Step-Processing-Blue)            
+![Input](https://img.shields.io/badge/+-Resize-1F4D37)           
+![Input](https://img.shields.io/badge/+-Watermarks-1F4D37)           
+![Input](https://img.shields.io/badge/+-Optimize-1F4D37)           
+![Input](https://img.shields.io/badge/+-Preview-1F4D37)         
 
-![Input](https://img.shields.io/badge/+-Resize-1F4D37)   
-![Input](https://img.shields.io/badge/+-Watermarks-1F4D37)   
-![Input](https://img.shields.io/badge/+-Optimize-1F4D37)   
-![Input](https://img.shields.io/badge/+-Preview-1F4D37)   
-
-![Output](https://img.shields.io/badge/Step-Output-Blue)
-
-![Output](https://img.shields.io/badge/+-Favicons(16x16,32x32,etc.)-1F4D37)   
-![Output](https://img.shields.io/badge/+-Archives(.zip)-1F4D37)          
-![Output](https://img.shields.io/badge/+-Reports(PDF/HTML)-1F4D37)   
+![Output](https://img.shields.io/badge/Step-Output-Blue)            
+![Output](https://img.shields.io/badge/+-Favicons(16x16,32x32,etc.)-1F4D37)             
+![Output](https://img.shields.io/badge/+-Archives(.zip)-1F4D37)                    
+![Output](https://img.shields.io/badge/+-Reports(PDF/HTML)-1F4D37)             
 
     </td>
   </tr>
