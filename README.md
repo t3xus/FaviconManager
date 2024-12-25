@@ -30,7 +30,7 @@ FaviconManager is a cross-platform Java-based application designed to simplify t
       ![Live Preview](https://img.shields.io/badge/Feature-Live%20Preview-1F4D37)                    
       ![Reports](https://img.shields.io/badge/Feature-Reports-1F4D37)                  
       ![Custom Sizes](https://img.shields.io/badge/Feature-Custom%20Sizes-1F4D37)                  
-      ![ZIP Export](https://img.shields.io/badge/Feature-ZIP%20Export-1F4D37)                    
+      ![ZIP Export](https://img.shields.io/badge/Feature-ZIP%20Export-1F4D37)           <BR><BR>
     </td>
     <td style="border: 1px solid #ccc; padding: 10px; vertical-align: top; text-align: left;">
       ![Input](https://img.shields.io/badge/Step-Input-cccccc)              
