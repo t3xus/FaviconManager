@@ -55,7 +55,7 @@ FaviconManager is a cross-platform Java-based application designed to simplify t
       ![PDF Reporting](https://img.shields.io/badge/Powered%20By-Apache%20PDFBox-1F4D37)           
       ![Error Logs](https://img.shields.io/badge/Logs-Detailed%20Logs-1F4D37)             
       ![Compatibility](https://img.shields.io/badge/Supports-Cross%20Platform-1F4D37)             
-      ![Java Version](https://img.shields.io/badge/Requires-Java%208+-1F4D37)        <BR><BR><BR><BR><BR><BR>  <BR><BR><BR>
+      ![Java Version](https://img.shields.io/badge/Requires-Java%208+-1F4D37)        <BR><BR><BR><BR><BR><BR>  <BR><BR><BR><BR>
     </td>
   </tr>
 </table>
