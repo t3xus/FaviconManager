@@ -54,7 +54,9 @@
     <td style="border: 1px solid #ccc; padding: 10px;">
       <style="list-style: none; padding: 0; margin: 0; text-align: left;">
         
+![Input](https://img.shields.io/badge/Images(.png,.jpg)-Input-1F4D37)
 ![Input](https://img.shields.io/badge/Step-Input-1F4D37)
+
       <ul>
           <li>Images (.png, .jpg)</li>
           <li>Folders</li>
