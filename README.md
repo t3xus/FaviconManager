@@ -57,8 +57,6 @@
 
 
 
-## **𝕷𝖎𝖈𝖊𝖓𝖘𝖊**
-
-This project is licensed under the [MIT License](LICENSE).
+[MIT License](LICENSE).
 
 
