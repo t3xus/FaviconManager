@@ -1,42 +1,5 @@
 <div align="center">
 
-### **Usage and Technical Highlights**
-
-<table style="border-collapse: collapse; border: 1px solid #ccc; font-family: Arial, sans-serif; text-align: center; width: 70%;">
-  <tr style="background-color: #f7f7f7; font-weight: bold;">
-    <td style="border: 1px solid #ccc; padding: 10px;">USAGE</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; padding: 10px;">
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li>📁 **Drag and Drop**: Drag images, folders, or `.zip` archives into the application.</li>
-        <li>🔍 **Preview Results**: View real-time previews of the generated favicons.</li>
-        <li>📦 **Export as ZIP**: Bundle all processed assets using the Export as ZIP option.</li>
-        <li>📄 **Generate Reports**: Create PDF and HTML summaries of processed assets.</li>
-        <li>📐 **Customize Dimensions**: Add unique sizes via the Custom Sizes menu.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 10px;">⬇</td>
-  </tr>
-  <tr style="background-color: #f7f7f7; font-weight: bold;">
-    <td style="border: 1px solid #ccc; padding: 10px;">TECHNICAL HIGHLIGHTS</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; padding: 10px;">
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li>🖼️ **Java Swing**: Built for a user-friendly graphical interface.</li>
-        <li>⚙️ **Image Processing**: Uses `BufferedImage` and `Graphics2D` for pixel-perfect scaling.</li>
-        <li>📄 **PDF Reporting**: Powered by **Apache PDFBox** for detailed summaries.</li>
-        <li>📝 **Error Logging**: Generates logs in `favicon_manager.log` for troubleshooting.</li>
-        <li>🌍 **Cross-Platform**: Compatible with Java Runtime Environment (JRE) 8+ on all major platforms.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 
 # **FaviconManager**
