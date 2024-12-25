@@ -44,8 +44,7 @@
 ![Professional Design](https://img.shields.io/badge/Benefit-Professional%20Design-1F4D37) 
 
 
-      </ul>
-    </td>
+
   </tr>
 </table>
 
