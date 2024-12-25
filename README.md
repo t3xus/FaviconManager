@@ -3,13 +3,12 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/t3xus/FaviconManager/refs/heads/main/ficom.png" width="900px">
+<img src="https://raw.githubusercontent.com/t3xus/FaviconManager/refs/heads/main/ficom.png" width="900px" alt="**FaviconManager** is a versatile, cross-platform Java application designed to streamline the creation, management, and export of graphical assets such as favicons and image resources for web development. Featuring a sleek interface and robust processing capabilities, FaviconManager enables web designers, developers, and brand managers to achieve consistency and efficiency in their workflows with ease.">
                                                                             
 ![Author](https://img.shields.io/badge/Author-Jgooch-1F4D37) ![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Language](https://img.shields.io/badge/Language-JAVA-1F4D37)  ![Java Version](https://img.shields.io/badge/Java-%3E=8-1F4D37) ![Status](https://img.shields.io/badge/Status-Stable-darkgreen)
 
   ![Windows](https://img.shields.io/badge/Platform-Windows%2011-blue)                ![macOS](https://img.shields.io/badge/Platform-macOS-cccccc)                              ![Linux](https://img.shields.io/badge/Platform-Linux-cccccc)      
 
-**FaviconManager** is a versatile, cross-platform Java application designed to streamline the creation, management, and export of graphical assets such as favicons and image resources for web development. Featuring a sleek interface and robust processing capabilities, FaviconManager enables web designers, developers, and brand managers to achieve consistency and efficiency in their workflows with ease.
 
 <table style="border-collapse: collapse; border: 1px solid #ccc; font-family: Arial, sans-serif; width: 90%; vertical-align: top; text-align: left;">
   <tr style="background-color: #f7f7f7; font-weight: bold;">
