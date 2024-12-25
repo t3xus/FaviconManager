@@ -32,7 +32,7 @@ FaviconManager is a cross-platform Java-based application designed to simplify t
       ![Custom Sizes](https://img.shields.io/badge/Feature-Custom%20Sizes-1F4D37)                  
       ![ZIP Export](https://img.shields.io/badge/Feature-ZIP%20Export-1F4D37)                    
     </td>
-    <td style="border: 1px solid #ccc; padding: 10px; text-align: left;">
+    <td style="border: 1px solid #ccc; padding: 10px; vertical-align: top; text-align: left;">
       ![Input](https://img.shields.io/badge/Step-Input-cccccc)              
       ![Input](https://img.shields.io/badge/+-Images(.png,.jpg)-1F4D37)            
       ![Input](https://img.shields.io/badge/+-Folders-1F4D37)              
@@ -49,7 +49,7 @@ FaviconManager is a cross-platform Java-based application designed to simplify t
       ![Output](https://img.shields.io/badge/+-Archives(.zip)-1F4D37)          
       ![Output](https://img.shields.io/badge/+-Reports(PDF/HTML)-1F4D37)          
     </td>
-    <td style="border: 1px solid #ccc; padding: 10px; text-align: left;">
+    <td style="border: 1px solid #ccc; padding: 10px; vertical-align: top; text-align: left;">
       ![Java Swing](https://img.shields.io/badge/Built%20With-Java%20Swing-1F4D37)           
       ![Image Processing](https://img.shields.io/badge/Uses-BufferedImage%20%26%20Graphics2D-1F4D37)            
       ![PDF Reporting](https://img.shields.io/badge/Powered%20By-Apache%20PDFBox-1F4D37)           
