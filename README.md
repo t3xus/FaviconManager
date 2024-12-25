@@ -27,8 +27,9 @@
     <td style="border: 1px solid #ccc; padding: 10px;">
       <style="list-style: none; padding: 0; margin: 0; text-align: left;">
         ![Drag-and-Drop](https://img.shields.io/badge/Feature-Drag--and--Drop-1F4D37)  
-        ![Automated Favicons](https://img.shields.io/badge/Feature-Favicon%20Generation-1F4D37)  
-        ![Social Media Images](https://img.shields.io/badge/Feature-Social%20Media%20Images-1F4D37)  
+                ![Automated Favicons](https://img.shields.io/badge/Feature-Favicon%20Generation-1F4D37)  
+  
+   ![Social Media Images](https://img.shields.io/badge/Feature-Social%20Media%20Images-1F4D37)  
         ![Watermarking](https://img.shields.io/badge/Feature-Watermarking-1F4D37)  
         ![Thumbnails](https://img.shields.io/badge/Feature-Thumbnails-1F4D37)  
         ![Color Palette](https://img.shields.io/badge/Feature-Color%20Extraction-1F4D37)  
