@@ -9,6 +9,8 @@ import java.util.logging.*;
 import java.util.zip.*;
 import java.awt.image.BufferedImage;
 import javax.imageio.ImageIO;
+import org.apache.pdfbox.pdmodel.*;
+import org.apache.pdfbox.pdmodel.font.PDType1Font;
 
 public class FaviconManager extends JFrame implements DropTargetListener {
 
@@ -91,10 +93,18 @@ public class FaviconManager extends JFrame implements DropTargetListener {
         JMenuItem previewFaviconsItem = new JMenuItem("Preview Favicons");
         previewFaviconsItem.addActionListener(e -> previewFavicons());
 
+        JMenuItem generatePDFItem = new JMenuItem("Generate PDF Report");
+        generatePDFItem.addActionListener(e -> generatePdfReport(exportFolder));
+
+        JMenuItem extractColorsItem = new JMenuItem("Extract Colors");
+        extractColorsItem.addActionListener(e -> extractColors(exportFolder));
+
         settingsMenu.add(customSizesItem);
         settingsMenu.add(toggleDarkModeItem);
         settingsMenu.add(exportAsZipItem);
         settingsMenu.add(previewFaviconsItem);
+        settingsMenu.add(generatePDFItem);
+        settingsMenu.add(extractColorsItem);
 
         menuBar.add(settingsMenu);
         setJMenuBar(menuBar);
@@ -159,6 +169,67 @@ public class FaviconManager extends JFrame implements DropTargetListener {
 
             previewFrame.setVisible(true);
         });
+    }
+
+    private void generatePdfReport(File folder) {
+        try (PDDocument doc = new PDDocument()) {
+            PDPage page = new PDPage();
+            doc.addPage(page);
+            PDPageContentStream contentStream = new PDPageContentStream(doc, page);
+
+            contentStream.setFont(PDType1Font.HELVETICA_BOLD, 12);
+            contentStream.beginText();
+            contentStream.setLeading(14.5f);
+            contentStream.newLineAtOffset(25, 750);
+
+            contentStream.showText("Favicon Report");
+            contentStream.newLine();
+            contentStream.newLine();
+
+            File[] files = folder.listFiles((dir, name) -> name.endsWith(".png"));
+            if (files != null) {
+                for (File file : files) {
+                    contentStream.showText(file.getName());
+                    contentStream.newLine();
+                }
+            }
+
+            contentStream.endText();
+            contentStream.close();
+
+            doc.save(new File(folder, "favicon_report.pdf"));
+            updateStatus("PDF Report Generated Successfully.");
+        } catch (IOException e) {
+            LOGGER.severe("Failed to generate PDF report: " + e.getMessage());
+        }
+    }
+
+    private void extractColors(File folder) {
+        File[] files = folder.listFiles((dir, name) -> name.endsWith(".png"));
+        if (files != null) {
+            for (File file : files) {
+                try {
+                    BufferedImage image = ImageIO.read(file);
+                    Map<String, Integer> colorMap = new HashMap<>();
+
+                    for (int x = 0; x < image.getWidth(); x++) {
+                        for (int y = 0; y < image.getHeight(); y++) {
+                            int rgb = image.getRGB(x, y);
+                            String hex = String.format("#%06X", (0xFFFFFF & rgb));
+                            colorMap.put(hex, colorMap.getOrDefault(hex, 0) + 1);
+                        }
+                    }
+
+                    colorMap.entrySet().stream()
+                        .sorted(Map.Entry.<String, Integer>comparingByValue().reversed())
+                        .limit(5)
+                        .forEach(entry -> LOGGER.info(file.getName() + " - Color: " + entry.getKey() + " Count: " + entry.getValue()));
+
+                } catch (IOException e) {
+                    LOGGER.warning("Failed to extract colors for: " + file.getName());
+                }
+            }
+        }
     }
 
     @Override
