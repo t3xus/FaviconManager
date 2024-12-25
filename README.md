@@ -1,6 +1,11 @@
 <div align="center">
 
-🄵🄰🅅🄸🄲🄾🄽 🄼🄰🄽🄰🄶🄴🅁
+  _____           _                   __  __                                   
+ |  ___|_ ___   _(_) ___ ___  _ __   |  \/  | __ _ _ __   __ _  __ _  ___ _ __ 
+ | |_ / _` \ \ / / |/ __/ _ \| '_ \  | |\/| |/ _` | '_ \ / _` |/ _` |/ _ \ '__|
+ |  _| (_| |\ V /| | (_| (_) | | | | | |  | | (_| | | | | (_| | (_| |  __/ |   
+ |_|  \__,_| \_/ |_|\___\___/|_| |_| |_|  |_|\__,_|_| |_|\__,_|\__, |\___|_|   
+                                                               |___/           
 
 ![Author](https://img.shields.io/badge/Author-Jgooch-1F4D37) ![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Language](https://img.shields.io/badge/Language-JAVA-1F4D37)  ![Java Version](https://img.shields.io/badge/Java-%3E=8-1F4D37) ![Status](https://img.shields.io/badge/Status-Stable-darkgreen)
 
