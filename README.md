@@ -12,18 +12,16 @@
 
 ## **Features**
 
-| Feature                            | Badge                                                                                     |
-|------------------------------------|-------------------------------------------------------------------------------------------|
-| **Drag-and-Drop Interface**        | ![Drag-and-Drop](https://img.shields.io/badge/Feature-Drag--and--Drop-blueviolet)         |
-| **Automated Favicon Generation**   | ![Automated Favicons](https://img.shields.io/badge/Feature-Favicon%20Generation-success)  |
-| **Social Media Resizing**          | ![Social Media](https://img.shields.io/badge/Feature-Social%20Media%20Images-yellowgreen) |
-| **Watermarking**                   | ![Watermarking](https://img.shields.io/badge/Feature-Watermarking-lightgrey)             |
-| **Thumbnails & Sprite Sheets**     | ![Thumbnails](https://img.shields.io/badge/Feature-Thumbnails-orange)                    |
-| **Color Palette Extraction**       | ![Color Palette](https://img.shields.io/badge/Feature-Color%20Extraction-important)      |
-| **Live Preview**                   | ![Live Preview](https://img.shields.io/badge/Feature-Live%20Preview-blue)                |
-| **PDF & HTML Reports**             | ![Reports](https://img.shields.io/badge/Feature-Reports-brightgreen)                     |
-| **Customizable Sizes**             | ![Custom Sizes](https://img.shields.io/badge/Feature-Custom%20Sizes-ff69b4)              |
-| **ZIP Export**                     | ![ZIP Export](https://img.shields.io/badge/Feature-ZIP%20Export-ff4500)                  |
+![Drag-and-Drop](https://img.shields.io/badge/Feature-Drag--and--Drop-1F4D37)         
+![Automated Favicons](https://img.shields.io/badge/Feature-Favicon%20Generation-1F4D37)  
+![Social Media](https://img.shields.io/badge/Feature-Social%20Media%20Images-1F4D37) 
+![Watermarking](https://img.shields.io/badge/Feature-Watermarking-1F4D37)             
+![Thumbnails](https://img.shields.io/badge/Feature-Thumbnails-1F4D37)                   
+![Color Palette](https://img.shields.io/badge/Feature-Color%20Extraction-1F4D37)      
+![Live Preview](https://img.shields.io/badge/Feature-Live%20Preview-1F4D37)               
+![Reports](https://img.shields.io/badge/Feature-Reports-1F4D37)                    
+![Custom Sizes](https://img.shields.io/badge/Feature-Custom%20Sizes-1F4D37)             
+![ZIP Export](https://img.shields.io/badge/Feature-ZIP%20Export-1F4D37)                 
 
 ---
 
