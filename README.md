@@ -33,7 +33,7 @@
 |---------------|-------------------------------------------------------------------------------------------|
 | **Windows**   | ![Windows](https://img.shields.io/badge/Platform-Windows%2011-blue)                       |
 | **macOS**     | ![macOS](https://img.shields.io/badge/Platform-macOS-cccccc)                              |
-| **Linux**     | ![Linux](https://img.shields.io/badge/Platform-Linux-orange)                              |
+| **Linux**     | ![Linux](https://img.shields.io/badge/Platform-Linux-ff4500)                              |
 
 ---
 
