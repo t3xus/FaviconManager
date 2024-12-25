@@ -52,14 +52,17 @@
   </tr>
   <tr>
     <td style="border: 1px solid #ccc; padding: 10px;">
-      <ul style="list-style: none; padding: 0; margin: 0; text-align: left;">
-        <li>![Input](https://img.shields.io/badge/Step-Input-1F4D37)</li>
+      <style="list-style: none; padding: 0; margin: 0; text-align: left;">
+        
+![Input](https://img.shields.io/badge/Step-Input-1F4D37)
+
         <ul>
           <li>Images (.png, .jpg)</li>
           <li>Folders</li>
           <li>ZIP Archives</li>
         </ul>
         <li>![Processing](https://img.shields.io/badge/Step-Processing-1F4D37)</li>
+      
         <ul>
           <li>Resize Images</li>
           <li>Add Watermarks</li>
