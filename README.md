@@ -5,9 +5,9 @@
 ![Author](https://img.shields.io/badge/Author-Jgooch-1F4D37) ![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Language](https://img.shields.io/badge/Language-JAVA-1F4D37)  ![Java Version](https://img.shields.io/badge/Java-%3E=8-1F4D37) ![Status](https://img.shields.io/badge/Status-Stable-darkgreen)
  ![macOS](https://img.shields.io/badge/Platform-macOS,Windows,Linux-cccccc)    
   
-<table style="border-collapse: collapse; border: 1px solid #ccc; font-family: Arial, sans-serif; width: 90%; vertical-align: top; text-align: left;">
+<table style="border-collapse: collapse; border: 1px solid #ccc; font-family: Arial, sans-serif; width: 90%; vertical-align: top; text-align: center;">
   <tr style="background-color: #f7f7f7; font-weight: bold;">
-    <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;"> Features ​</td>
+    <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">Features ​</td>
     <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">​𝖂𝖔𝖗𝖐𝖋𝖑𝖔𝖜​</td>
     <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">𝕳𝖎𝖌𝖍𝖑𝖎𝖌𝖍𝖙𝖘</td>
   </tr>
