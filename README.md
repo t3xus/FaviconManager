@@ -62,7 +62,7 @@ FaviconManager is a cross-platform Java-based application designed to simplify t
 
 
 
-## **License**
+## **𝕷𝖎𝖈𝖊𝖓𝖘𝖊**
 
 This project is licensed under the [MIT License](LICENSE).
 
