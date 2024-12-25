@@ -1,16 +1,21 @@
 <div align="center">
 
-```__________                _____                              ______  ___                                               ```
-```___  ____/______ ____   _____(_)_____________ _______        ___   |/  /______ ________ ______ ________ ______ ________```
-```__  /_    _  __ `/__ | / /__  / _  ___/_  __ \__  __ \       __  /|_/ / _  __ `/__  __ \_  __ `/__  __ `/_  _ \__  ___/```
-```_  __/    / /_/ / __ |/ / _  /  / /__  / /_/ /_  / / /       _  /  / /  / /_/ / _  / / // /_/ / _  /_/ / /  __/_  /    ```
-```/_/       \__,_/  _____/  /_/   \___/  \____/ /_/ /_/        /_/  /_/   \__,_/  /_/ /_/ \__,_/  _\__, /  \___/ /_/     ```
- ```                                                                                               /____/                 ```
+
+
+
+```███████╗ █████╗ ██╗   ██╗██╗ ██████╗ ██████╗ ███╗   ██╗    ███╗   ███╗ █████╗ ███╗   ██╗ █████╗  ██████╗ ███████╗██████╗ ```
+```██╔════╝██╔══██╗██║   ██║██║██╔════╝██╔═══██╗████╗  ██║    ████╗ ████║██╔══██╗████╗  ██║██╔══██╗██╔════╝ ██╔════╝██╔══██╗```
+```█████╗  ███████║██║   ██║██║██║     ██║   ██║██╔██╗ ██║    ██╔████╔██║███████║██╔██╗ ██║███████║██║  ███╗█████╗  ██████╔╝```
+```██╔══╝  ██╔══██║╚██╗ ██╔╝██║██║     ██║   ██║██║╚██╗██║    ██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══██║██║   ██║██╔══╝  ██╔══██╗```
+```██║     ██║  ██║ ╚████╔╝ ██║╚██████╗╚██████╔╝██║ ╚████║    ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║╚██████╔╝███████╗██║  ██║```
+```╚═╝     ╚═╝  ╚═╝  ╚═══╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝```
+```                                                                                                                         ```                                                                                                                         
+                                                                                    
 ![Author](https://img.shields.io/badge/Author-Jgooch-1F4D37) ![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Language](https://img.shields.io/badge/Language-JAVA-1F4D37)  ![Java Version](https://img.shields.io/badge/Java-%3E=8-1F4D37) ![Status](https://img.shields.io/badge/Status-Stable-darkgreen)
 
   ![Windows](https://img.shields.io/badge/Platform-Windows%2011-blue)                ![macOS](https://img.shields.io/badge/Platform-macOS-cccccc)                              ![Linux](https://img.shields.io/badge/Platform-Linux-cccccc)      
 
-𝔽𝕒𝕧𝕚𝕔𝕠𝕟𝕄𝕒𝕟𝕒𝕘𝕖𝕣 𝕚𝕤 𝕒 𝕔𝕣𝕠𝕤𝕤-𝕡𝕝𝕒𝕥𝕗𝕠𝕣𝕞 𝕁𝕒𝕧𝕒-𝕓𝕒𝕤𝕖𝕕 𝕒𝕡𝕡𝕝𝕚𝕔𝕒𝕥𝕚𝕠𝕟 𝕕𝕖𝕤𝕚𝕘𝕟𝕖𝕕 𝕥𝕠 𝕤𝕚𝕞𝕡𝕝𝕚𝕗𝕪 𝕥𝕙𝕖 𝕔𝕣𝕖𝕒𝕥𝕚𝕠𝕟, 𝕞𝕒𝕟𝕒𝕘𝕖𝕞𝕖𝕟𝕥, 𝕒𝕟𝕕 𝕖𝕩𝕡𝕠𝕣𝕥 𝕠𝕗 𝕘𝕣𝕒𝕡𝕙𝕚𝕔𝕒𝕝 𝕒𝕤𝕤𝕖𝕥𝕤, 𝕚𝕟𝕔𝕝𝕦𝕕𝕚𝕟𝕘 𝕗𝕒𝕧𝕚𝕔𝕠𝕟𝕤 𝕒𝕟𝕕 𝕚𝕞𝕒𝕘𝕖 𝕣𝕖𝕤𝕠𝕦𝕣𝕔𝕖𝕤 𝕗𝕠𝕣 𝕨𝕖𝕓 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥. 𝕎𝕚𝕥𝕙 𝕚𝕥𝕤 𝕤𝕥𝕣𝕖𝕒𝕞𝕝𝕚𝕟𝕖𝕕 𝕚𝕟𝕥𝕖𝕣𝕗𝕒𝕔𝕖 𝕒𝕟𝕕 𝕡𝕠𝕨𝕖𝕣𝕗𝕦𝕝 𝕡𝕣𝕠𝕔𝕖𝕤𝕤𝕚𝕟𝕘 𝕔𝕒𝕡𝕒𝕓𝕚𝕝𝕚𝕥𝕚𝕖𝕤, 𝔽𝕒𝕧𝕚𝕔𝕠𝕟𝕄𝕒𝕟𝕒𝕘𝕖𝕣 𝕖𝕞𝕡𝕠𝕨𝕖𝕣𝕤 𝕨𝕖𝕓 𝕕𝕖𝕤𝕚𝕘𝕟𝕖𝕣𝕤, 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣𝕤, 𝕒𝕟𝕕 𝕓𝕣𝕒𝕟𝕕 𝕞𝕒𝕟𝕒𝕘𝕖𝕣𝕤 𝕥𝕠 𝕞𝕒𝕚𝕟𝕥𝕒𝕚𝕟 𝕔𝕠𝕟𝕤𝕚𝕤𝕥𝕖𝕟𝕔𝕪 𝕒𝕟𝕕 𝕖𝕗𝕗𝕚𝕔𝕚𝕖𝕟𝕔𝕪 𝕚𝕟 𝕥𝕙𝕖𝕚𝕣 𝕨𝕠𝕣𝕜𝕗𝕝𝕠𝕨𝕤.
+**FaviconManager** is a versatile, cross-platform Java application designed to streamline the creation, management, and export of graphical assets such as favicons and image resources for web development. Featuring a sleek interface and robust processing capabilities, FaviconManager enables web designers, developers, and brand managers to achieve consistency and efficiency in their workflows with ease.
 
 <div align="center">
 
