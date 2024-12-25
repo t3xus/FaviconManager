@@ -36,12 +36,10 @@
 
 ## **Why Use FaviconManager?**
 
-| Benefit               | Badge                                                                                     |
-|-----------------------|-------------------------------------------------------------------------------------------|
-| **Streamlined Workflow** | ![Workflow](https://img.shields.io/badge/Benefit-Streamlined%20Workflow-success)         |
-| **Consistency**         | ![Consistency](https://img.shields.io/badge/Benefit-Consistency-brightgreen)             |
-| **Efficiency**          | ![Efficiency](https://img.shields.io/badge/Benefit-Efficiency-blue)                      |
-| **Professional Design** | ![Professional Design](https://img.shields.io/badge/Benefit-Professional%20Design-purple) |
+![Workflow](https://img.shields.io/badge/Benefit-Streamlined%20Workflow-1F4D37)         
+![Consistency](https://img.shields.io/badge/Benefit-Consistency-1F4D37)             
+![Efficiency](https://img.shields.io/badge/Benefit-Efficiency-1F4D37)                      
+![Professional Design](https://img.shields.io/badge/Benefit-Professional%20Design-1F4D37) 
 
 ---
 
