@@ -4,7 +4,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Cross--Platform-green)  
 ![Java Version](https://img.shields.io/badge/Java-%3E=8-important)  
-![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+![Status](https://img.shields.io/badge/Status-Stable-darkgreen)
 
 ---
 
