@@ -8,15 +8,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Cross--Platform-cccccc)            ![Windows](https://img.shields.io/badge/Platform-Windows%2011-blue)                ![macOS](https://img.shields.io/badge/Platform-macOS-cccccc)                              ![Linux](https://img.shields.io/badge/Platform-Linux-cccccc)      
 
----
-
-## **Overview**
-
-**FaviconManager** is a cross-platform Java-based application designed to simplify the creation, management, and export of graphical assets, including favicons and image resources for web development. With its streamlined interface and powerful processing capabilities, FaviconManager helps web designers, developers, and brand managers maintain consistency and efficiency in their workflows.
-
----
-<div align="center">
-
+FaviconManager is a cross-platform Java-based application designed to simplify the creation, management, and export of graphical assets, including favicons and image resources for web development. With its streamlined interface and powerful processing capabilities, FaviconManager empowers web designers, developers, and brand managers to maintain consistency and efficiency in their workflows.
 
 <div align="center">
 
@@ -64,60 +56,6 @@
 </table>
 
 
-
-
-
-  ![Drag-and-Drop](https://img.shields.io/badge/Usage-+-1F4D37)      
-
-
-      
-
-## **Usage**
-
-1. **Drag and Drop**  
-   Drag and drop images, folders, or `.zip` archives into the application.
-
-2. **Preview Results**  
-   View real-time previews of the generated favicons.
-
-3. **Export as ZIP**  
-   Use the **Export as ZIP** option to bundle all processed assets.
-
-4. **Generate Reports**  
-   Generate PDF and HTML summaries of processed assets.
-
-5. **Customize Dimensions**  
-   Add unique dimensions for specialized use cases through the **Custom Sizes** menu.
-
-
-
-
- 
-
-
-## **Technical Highlights**
-
-- Built with **Java Swing** for a user-friendly interface.
-- **Image Processing** uses `BufferedImage` and `Graphics2D` for pixel-perfect scaling.
-- **PDF Reporting** powered by **Apache PDFBox**.
-- **Error Logging** provides detailed logs via `favicon_manager.log`.
-- Cross-platform compatibility with **Java Runtime Environment (JRE) 8+**.
-
-
-
- 
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
----
-
-
-
----
 
 ## **License**
 
