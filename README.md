@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td style="border: 1px solid #ccc; padding: 10px;">
-      <ul style="list-style: none; padding: 0; margin: 0; text-align: left;">
+      <style="list-style: none; padding: 0; margin: 0; text-align: left;">
         ![Drag-and-Drop](https://img.shields.io/badge/Feature-Drag--and--Drop-1F4D37)  
         ![Automated Favicons](https://img.shields.io/badge/Feature-Favicon%20Generation-1F4D37)  
         ![Social Media Images](https://img.shields.io/badge/Feature-Social%20Media%20Images-1F4D37)  
@@ -40,7 +40,7 @@
         ![Consistency](https://img.shields.io/badge/Benefit-Consistency-1F4D37)  
         ![Efficiency](https://img.shields.io/badge/Benefit-Efficiency-1F4D37)  
         ![Professional Design](https://img.shields.io/badge/Benefit-Professional%20Design-1F4D37)  
-      </ul>
+      
     </td>
   </tr>
 </table>
