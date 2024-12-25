@@ -7,7 +7,7 @@
                                                                             
 ![Author](https://img.shields.io/badge/Author-Jgooch-1F4D37) ![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Language](https://img.shields.io/badge/Language-JAVA-1F4D37)  ![Java Version](https://img.shields.io/badge/Java-%3E=8-1F4D37) ![Status](https://img.shields.io/badge/Status-Stable-darkgreen)
 
-  ![Windows](https://img.shields.io/badge/Platform-Windows%11&,macOS-cccccc)                ![macOS](https://img.shields.io/badge/Platform-macOS-cccccc)                              ![Linux](https://img.shields.io/badge/Platform-Linux-cccccc)      
+  ![Windows](https://img.shields.io/badge/Platform-Windows%11&,macOS-cccccc)                ![macOS](https://img.shields.io/badge/Platform-macOS,Windows,Linux-cccccc)                              ![Linux](https://img.shields.io/badge/Platform-Linux-cccccc)      
 
 
 <table style="border-collapse: collapse; border: 1px solid #ccc; font-family: Arial, sans-serif; width: 90%; vertical-align: top; text-align: left;">
