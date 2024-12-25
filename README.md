@@ -6,7 +6,7 @@
 
 ![Author](https://img.shields.io/badge/Author-Jgooch-1F4D37) ![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Language](https://img.shields.io/badge/Language-JAVA-1F4D37)  ![Java Version](https://img.shields.io/badge/Java-%3E=8-1F4D37) ![Status](https://img.shields.io/badge/Status-Stable-darkgreen)
 
-![Platform](https://img.shields.io/badge/Platform-Cross--Platform-cccccc)            ![Windows](https://img.shields.io/badge/Platform-Windows%2011-blue)                ![macOS](https://img.shields.io/badge/Platform-macOS-cccccc)                              ![Linux](https://img.shields.io/badge/Platform-Linux-cccccc)      
+  ![Windows](https://img.shields.io/badge/Platform-Windows%2011-blue)                ![macOS](https://img.shields.io/badge/Platform-macOS-cccccc)                              ![Linux](https://img.shields.io/badge/Platform-Linux-cccccc)      
 
 FaviconManager is a cross-platform Java-based application designed to simplify the creation, management, and export of graphical assets, including favicons and image resources for web development. With its streamlined interface and powerful processing capabilities, FaviconManager empowers web designers, developers, and brand managers to maintain consistency and efficiency in their workflows.
 
