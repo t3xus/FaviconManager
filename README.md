@@ -54,31 +54,22 @@
     <td style="border: 1px solid #ccc; padding: 10px;">
       <style="list-style: none; padding: 0; margin: 0; text-align: left;">
       
-![Input](https://img.shields.io/badge/Step-Input-1F4D37)          
+![Input](https://img.shields.io/badge/Step-Input-Blue)          
 ![Input](https://img.shields.io/badge/+-Images(.png,.jpg)-1F4D37)            
 ![Input](https://img.shields.io/badge/+-Folders-1F4D37)            
 ![Input](https://img.shields.io/badge/+-Archives(.zip)-1F4D37)          
 
-      <ul>
-          <li>Images (.png, .jpg)</li>
-          <li>Folders</li>
-          <li>ZIP Archives</li>
-        </ul>
-![Processing](https://img.shields.io/badge/Step-Processing-1F4D37)
-      
-        <ul>
-          <li>Resize Images</li>
-          <li>Add Watermarks</li>
-          <li>Optimize Files</li>
-          <li>Generate Previews</li>
-        </ul>
-![Output](https://img.shields.io/badge/Step-Output-1F4D37)</li>
-        <ul>
-          <li>Favicons (16x16, 32x32, etc.)</li>
-          <li>ZIP Archive</li>
-          <li>Reports (PDF/HTML)</li>
-        </ul>
-      </ul>
+![Processing](https://img.shields.io/badge/Step-Processing-Blue)
+![Input](https://img.shields.io/badge/+-Resize-1F4D37)   
+![Input](https://img.shields.io/badge/+-Watermarks-1F4D37)   
+![Input](https://img.shields.io/badge/+-Optimize-1F4D37)   
+![Input](https://img.shields.io/badge/+-Preview-1F4D37)   
+
+![Output](https://img.shields.io/badge/Step-Output-Blue)
+![Output](https://img.shields.io/badge/+-Favicons(16x16,32x32,etc.)-1F4D37)   
+![Output](https://img.shields.io/badge/+-Archives(.zip)-1F4D37)          
+![Output](https://img.shields.io/badge/+-Reports(PDF/HTML)-1F4D37)   
+
     </td>
   </tr>
 </table>
