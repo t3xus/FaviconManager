@@ -12,7 +12,7 @@ FaviconManager is a cross-platform Java-based application designed to simplify t
 
 <div align="center">
 
-<table style="border-collapse: collapse; border: 1px solid #ccc; font-family: Arial, sans-serif; width: 90%; text-align: center;">
+<table style="border-collapse: collapse; border: 1px solid #ccc; font-family: Arial, sans-serif; width: 90%; vertical-align: top; text-align: left;">
   <tr style="background-color: #f7f7f7; font-weight: bold;">
     <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">FEATURES & BENEFITS</td>
     <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">WORKFLOW</td>
