@@ -10,8 +10,8 @@
     <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">
 
 ![Drag-and-Drop](https://img.shields.io/badge/------Features-1F4D37)            ​</td>
-    <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">​𝖂𝖔𝖗𝖐𝖋𝖑𝖔𝖜​</td>
-    <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">𝕳𝖎𝖌𝖍𝖑𝖎𝖌𝖍𝖙𝖘</td>
+    <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">​ ![Drag-and-Drop](https://img.shields.io/badge/------WorkFlow-1F4D37)            ​</td>
+    <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;"> ![Drag-and-Drop](https://img.shields.io/badge/------HighLights-1F4D37) </td>
   </tr>
   <tr>
     <td style="border: 1px solid #ccc; padding: 10px; vertical-align: top; text-align: left;">
