@@ -26,16 +26,17 @@
   <tr>
     <td style="border: 1px solid #ccc; padding: 10px;">
       <style="list-style: none; padding: 0; margin: 0; text-align: left;">
-![Drag-and-Drop](https://img.shields.io/badge/Feature-Drag--and--Drop-1F4D37)                            
-![Automated Favicons](https://img.shields.io/badge/Feature-Favicon%20Generation-1F4D37)               
-![Social Media](https://img.shields.io/badge/Feature-Social%20Media%20Images-1F4D37)               
-![Watermarking](https://img.shields.io/badge/Feature-Watermarking-1F4D37)                  
-![Thumbnails](https://img.shields.io/badge/Feature-Thumbnails-1F4D37)                  
-![Color Palette](https://img.shields.io/badge/Feature-Color%20Extraction-1F4D37)               
-![Live Preview](https://img.shields.io/badge/Feature-Live%20Preview-1F4D37)               
-![Reports](https://img.shields.io/badge/Feature-Reports-1F4D37)                  
+        
+![Drag-and-Drop](https://img.shields.io/badge/Feature-Drag--and--Drop-1F4D37)           
+![Automated Favicons](https://img.shields.io/badge/Feature-Favicon%20Generation-1F4D37)   
+![Social Media](https://img.shields.io/badge/Feature-Social%20Media%20Images-1F4D37)         
+![Watermarking](https://img.shields.io/badge/Feature-Watermarking-1F4D37)             
+![Thumbnails](https://img.shields.io/badge/Feature-Thumbnails-1F4D37)           
+![Color Palette](https://img.shields.io/badge/Feature-Color%20Extraction-1F4D37)         
+![Live Preview](https://img.shields.io/badge/Feature-Live%20Preview-1F4D37)          
+![Reports](https://img.shields.io/badge/Feature-Reports-1F4D37)                 
 ![Custom Sizes](https://img.shields.io/badge/Feature-Custom%20Sizes-1F4D37)                  
-![ZIP Export](https://img.shields.io/badge/Feature-ZIP%20Export-1F4D37)      
+![ZIP Export](https://img.shields.io/badge/Feature-ZIP%20Export-1F4D37)     
 
 ![Workflow](https://img.shields.io/badge/Benefit-Streamlined%20Workflow-1F4D37)         
 ![Consistency](https://img.shields.io/badge/Benefit-Consistency-1F4D37)             
