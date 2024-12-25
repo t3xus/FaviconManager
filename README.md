@@ -69,8 +69,7 @@
 ![Output](https://img.shields.io/badge/+-Archives(.zip)-1F4D37)                    
 ![Output](https://img.shields.io/badge/+-Reports(PDF/HTML)-1F4D37)             
 
-    </td>
-  </tr>
+
 </table>
 
 </div>
