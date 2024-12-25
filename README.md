@@ -16,7 +16,7 @@ FaviconManager is a cross-platform Java-based application designed to simplify t
   <tr style="background-color: #f7f7f7; font-weight: bold;">
     <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">​🇫​​🇪​​🇦​​🇹​​🇺​​🇷​​🇪​​🇸​</td>
     <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">​🇼​​🇴​​🇷​​🇰​​🇫​​🇱​​🇴​​🇼​</td>
-    <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">🄷🄸🄶🄷🄻🄸🄶🄷🅃🅂�​</td>
+    <td style="border: 1px solid #ccc; vertical-align: top; text-align: left; padding: 10px; width: 33%;">𝕳𝖎𝖌𝖍𝖑𝖎𝖌𝖍𝖙𝖘</td>
   </tr>
   <tr>
     <td style="border: 1px solid #ccc; padding: 10px; vertical-align: top; text-align: left;">
