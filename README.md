@@ -54,7 +54,7 @@
     <td style="border: 1px solid #ccc; padding: 10px;">
       <style="list-style: none; padding: 0; margin: 0; text-align: left;">
         
-![Input](https://img.shields.io/badge/--Images(.png,.jpg)-1F4D37)
+![Input](https://img.shields.io/badge/+-Images(.png,.jpg)-1F4D37)
 ![Input](https://img.shields.io/badge/Step-Input-1F4D37)
 
       <ul>
