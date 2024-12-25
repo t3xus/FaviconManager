@@ -31,6 +31,57 @@
 ![Professional Design](https://img.shields.io/badge/Benefit-Professional%20Design-1F4D37) 
 
 
+<div align="center">
+
+### **FaviconManager Workflow**
+
+<table style="border-collapse: collapse; border: 1px solid #ccc; font-family: Arial, sans-serif; text-align: center; width: 70%;">
+  <tr style="background-color: #f7f7f7; font-weight: bold;">
+    <td style="border: 1px solid #ccc; padding: 10px;">INPUT</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ccc; padding: 10px;">
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        <li>📁 Images (.png, .jpg)</li>
+        <li>📂 Folders</li>
+        <li>📦 ZIP Archives</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 10px;">⬇</td>
+  </tr>
+  <tr style="background-color: #f7f7f7; font-weight: bold;">
+    <td style="border: 1px solid #ccc; padding: 10px;">PROCESSING</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ccc; padding: 10px;">
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        <li>🖼️ Resize Images</li>
+        <li>💧 Add Watermarks</li>
+        <li>⚙️ Optimize Files</li>
+        <li>🔍 Generate Previews</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 10px;">⬇</td>
+  </tr>
+  <tr style="background-color: #f7f7f7; font-weight: bold;">
+    <td style="border: 1px solid #ccc; padding: 10px;">OUTPUT</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ccc; padding: 10px;">
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        <li>📐 Favicons (16x16, 32x32, 64x64, etc.)</li>
+        <li>📦 ZIP Archive</li>
+        <li>📄 Reports (PDF/HTML)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 ---
