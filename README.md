@@ -67,7 +67,7 @@
 
 
 
-  ![Drag-and-Drop](https://img.shields.io/badge/Usage-Drag--and--Drop-1F4D37)      
+  ![Drag-and-Drop](https://img.shields.io/badge/Usage-+-1F4D37)      
 
 
       
