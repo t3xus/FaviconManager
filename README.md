@@ -63,103 +63,18 @@
   </tr>
 </table>
 
-</div>
 
 
-<table style="border-collapse: collapse; border: 1px solid #ccc; font-family: Arial, sans-serif; text-align: center; width: 45%; display: inline-block; vertical-align: top; margin-left: 10px;">
+
+
+<table style="border-collapse: collapse; border: 1px solid #ccc; font-family: Arial, sans-serif; width: 90%; text-align: center;">
   <tr style="background-color: #f7f7f7; font-weight: bold;">
-    <td style="border: 1px solid #ccc; padding: 10px;">FAVICONMANAGER WORKFLOW</td>
+    <td style="border: 1px solid #ccc; padding: 10px; width: 50%;">FEATURES & BENEFITS</td>
+    <td style="border: 1px solid #ccc; padding: 10px; width: 50%;">WORKFLOW</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ccc; padding: 10px;">
-      <ul style="list-style: none; padding: 0; margin: 0; text-align: left;">
-        <li>![Input](https://img.shields.io/badge/Step-Input-1F4D37)</li>
-        <ul>
-          <li>Images (.png, .jpg)</li>
-          <li>Folders</li>
-          <li>ZIP Archives</li>
-        </ul>
-        <li>![Processing](https://img.shields.io/badge/Step-Processing-1F4D37)</li>
-        <ul>
-          <li>Resize Images</li>
-          <li>Add Watermarks</li>
-          <li>Optimize Files</li>
-          <li>Generate Previews</li>
-        </ul>
-        <li>![Output](https://img.shields.io/badge/Step-Output-1F4D37)</li>
-        <ul>
-          <li>Favicons (16x16, 32x32, etc.)</li>
-          <li>ZIP Archive</li>
-          <li>Reports (PDF/HTML)</li>
-        </ul>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
-
-
-
-## **Features & Benefits**
-
-
-<div align="center">
-
-### **FaviconManager Workflow**
-
-<table style="border-collapse: collapse; border: 1px solid #ccc; font-family: Arial, sans-serif; text-align: center; width: 70%;">
-  <tr style="background-color: #f7f7f7; font-weight: bold;">
-    <td style="border: 1px solid #ccc; padding: 10px;">INPUT</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; padding: 10px;">
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li>📁 Images (.png, .jpg)</li>
-        <li>📂 Folders</li>
-        <li>📦 ZIP Archives</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 10px;">⬇</td>
-  </tr>
-  <tr style="background-color: #f7f7f7; font-weight: bold;">
-    <td style="border: 1px solid #ccc; padding: 10px;">PROCESSING</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; padding: 10px;">
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li>🖼️ Resize Images</li>
-        <li>💧 Add Watermarks</li>
-        <li>⚙️ Optimize Files</li>
-        <li>🔍 Generate Previews</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 10px;">⬇</td>
-  </tr>
-  <tr style="background-color: #f7f7f7; font-weight: bold;">
-    <td style="border: 1px solid #ccc; padding: 10px;">OUTPUT</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; padding: 10px;">
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li>📐 Favicons (16x16, 32x32, 64x64, etc.)</li>
-        <li>📦 ZIP Archive</li>
-        <li>📄 Reports (PDF/HTML)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
----
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: left;">
+      
 
 ## **Usage**
 
@@ -178,7 +93,12 @@
 5. **Customize Dimensions**  
    Add unique dimensions for specialized use cases through the **Custom Sizes** menu.
 
----
+
+
+
+ 
+    </td>
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: left;">
 
 ## **Technical Highlights**
 
@@ -187,6 +107,20 @@
 - **PDF Reporting** powered by **Apache PDFBox**.
 - **Error Logging** provides detailed logs via `favicon_manager.log`.
 - Cross-platform compatibility with **Java Runtime Environment (JRE) 8+**.
+
+
+
+ 
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+---
+
+
 
 ---
 
