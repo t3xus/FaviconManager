@@ -26,7 +26,7 @@
   <tr>
     <td style="border: 1px solid #ccc; padding: 10px;">
       <ul style="list-style: none; padding: 0; margin: 0; text-align: left;">
-        <li>![Drag-and-Drop](https://img.shields.io/badge/Feature-Drag--and--Drop-1F4D37)</li>
+        ![Drag-and-Drop](https://img.shields.io/badge/Feature-Drag--and--Drop-1F4D37)
         <li>![Automated Favicons](https://img.shields.io/badge/Feature-Favicon%20Generation-1F4D37)</li>
         <li>![Social Media Images](https://img.shields.io/badge/Feature-Social%20Media%20Images-1F4D37)</li>
         <li>![Watermarking](https://img.shields.io/badge/Feature-Watermarking-1F4D37)</li>
