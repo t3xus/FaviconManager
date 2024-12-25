@@ -55,13 +55,12 @@
       <style="list-style: none; padding: 0; margin: 0; text-align: left;">
         
 ![Input](https://img.shields.io/badge/Step-Input-1F4D37)
-
-        <ul>
+      <ul>
           <li>Images (.png, .jpg)</li>
           <li>Folders</li>
           <li>ZIP Archives</li>
         </ul>
-        <li>![Processing](https://img.shields.io/badge/Step-Processing-1F4D37)</li>
+![Processing](https://img.shields.io/badge/Step-Processing-1F4D37)
       
         <ul>
           <li>Resize Images</li>
@@ -69,7 +68,7 @@
           <li>Optimize Files</li>
           <li>Generate Previews</li>
         </ul>
-        <li>![Output](https://img.shields.io/badge/Step-Output-1F4D37)</li>
+![Output](https://img.shields.io/badge/Step-Output-1F4D37)</li>
         <ul>
           <li>Favicons (16x16, 32x32, etc.)</li>
           <li>ZIP Archive</li>
