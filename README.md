@@ -2,7 +2,7 @@
 
 ![Author](https://img.shields.io/badge/Author-Jgooch-1F4D37) ![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Language](https://img.shields.io/badge/Language-JAVA-1F4D37)  ![Java Version](https://img.shields.io/badge/Java-%3E=8-1F4D37) ![Status](https://img.shields.io/badge/Status-Stable-darkgreen)
 
-![Platform](https://img.shields.io/badge/Platform-Cross--Platform-1F4D37)            ![Windows](https://img.shields.io/badge/Platform-Windows%2011-blue)                ![macOS](https://img.shields.io/badge/Platform-macOS-cccccc)                              ![Linux](https://img.shields.io/badge/Platform-Linux-cayan)      
+![Platform](https://img.shields.io/badge/Platform-Cross--Platform-1F4D37)            ![Windows](https://img.shields.io/badge/Platform-Windows%2011-blue)                ![macOS](https://img.shields.io/badge/Platform-macOS-cccccc)                              ![Linux](https://img.shields.io/badge/Platform-Linux-1F4D37)      
 
 ---
 
