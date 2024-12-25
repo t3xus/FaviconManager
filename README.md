@@ -53,18 +53,18 @@
     <td style="border: 1px solid #ccc; padding: 10px;">
       <style="list-style: none; padding: 0; margin: 0; text-align: left;">
       
-![Input](https://img.shields.io/badge/Step-Input-Blue)          
+![Input](https://img.shields.io/badge/Step-Input-cccccc)          
 ![Input](https://img.shields.io/badge/+-Images(.png,.jpg)-1F4D37)            
 ![Input](https://img.shields.io/badge/+-Folders-1F4D37)            
 ![Input](https://img.shields.io/badge/+-Archives(.zip)-1F4D37)          
 
-![Processing](https://img.shields.io/badge/Step-Processing-Blue)            
+![Processing](https://img.shields.io/badge/Step-Processing-cccccc)            
 ![Input](https://img.shields.io/badge/+-Resize-1F4D37)           
 ![Input](https://img.shields.io/badge/+-Watermarks-1F4D37)           
 ![Input](https://img.shields.io/badge/+-Optimize-1F4D37)           
 ![Input](https://img.shields.io/badge/+-Preview-1F4D37)         
 
-![Output](https://img.shields.io/badge/Step-Output-Blue)            
+![Output](https://img.shields.io/badge/Step-Output-cccccc)            
 ![Output](https://img.shields.io/badge/+-Favicons(16x16,32x32,etc.)-1F4D37)             
 ![Output](https://img.shields.io/badge/+-Archives(.zip)-1F4D37)                    
 ![Output](https://img.shields.io/badge/+-Reports(PDF/HTML)-1F4D37)             
