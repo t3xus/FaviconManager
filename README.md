@@ -1,5 +1,8 @@
 <center>
-<div align="center">
+<div align="center"> 
+  
+  ![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
   ![](https://img.shields.io/badge/FaviconManager-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
   ![FaviconManager](https://img.shields.io/badge/FaviconManager-is%20a%20versatile,%20cross%20platform%20Java%20application%20designed%20to%20streamline%20the%20creation,%20management,%20and%20export%20of%20graphical%20assets%20such%20as%20favicons%20and%20image%20resources%20for%20web%20development.-blue)
